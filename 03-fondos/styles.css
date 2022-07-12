@@ -1,0 +1,23 @@
+body {
+    background-color: #ccc;
+   /* background-image: url(img/pattern-background-school.jpg); */
+    /* word-spacing: 10px;
+    letter-spacing: 1px; */
+}
+
+#caja {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: rgb(0, 255, 234);
+    color: white;
+    font-family: "Open Sans";
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 10px;
+}
+
+h2 {
+    color: red;
+    background: white;
+    border: 5px solid red;
+}
